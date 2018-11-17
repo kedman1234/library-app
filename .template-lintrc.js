@@ -7,6 +7,7 @@ module.exports = {
     "attribute-indentation": false,
     "element-indentation": false,
     "block-indentation": false,
-    "no-html-comments": false
+    "no-html-comments": false,
+    "self-closing-void-elements": false
   }
 };
